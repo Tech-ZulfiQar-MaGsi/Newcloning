@@ -298,7 +298,7 @@ banner = ("""
 
    
 logo = ("""
-\033[41m\033[1;37m
+
   \033[41m\033[1;37m Am New To this? \033[41m\033[1;37mBuh You Will Soon Acknowledge Me!!! (Mr.zulfiqar Ali \x1b[0m\n""")
 
 
